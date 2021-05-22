@@ -1,5 +1,3 @@
-"""Top-level package for Starter."""
-
-__author__ = ""
-__email__ = ""
+__author__ = "Todd Young"
+__email__ = "yngtdd@gmail.com"
 __version__ = "0.1.0"
