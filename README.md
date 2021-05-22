@@ -1,6 +1,6 @@
-<h1>Starter<img src='https://github.com/yngtodd/starter/blob/main/img/snek.png' align='right' width='180' height='104'></h1>
+<h1>Study<img src='https://github.com/yngtodd/starter/blob/main/img/snek.png' align='right' width='180' height='104'></h1>
 
-A starter template for Python packages.
+An art study approach to machine learning software.
 
 #### Setup
 
@@ -13,5 +13,5 @@ python setup.py install
 Starter comes with a built in command line interface:
 
 ```python
-python -m starter.cli greet
+python -m study.cli greet
 ```
