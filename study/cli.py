@@ -2,7 +2,7 @@ import argh
 
 
 def greet() -> None:
-    r"""Say hello, starter"""
+    r"""Say hello, study"""
     print(f'Hello, world!')
 
 
